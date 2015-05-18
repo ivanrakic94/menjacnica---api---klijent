@@ -1,0 +1,13 @@
+{
+  "datum": "Mon May 18 21:49:35 CEST 2015",
+  "valute": [
+    {
+      "naziv": "EUR",
+      "kurs": 120.51510949
+    },
+    {
+      "naziv": "USD",
+      "kurs": 106.544998
+    }
+  ]
+}
